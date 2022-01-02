@@ -1,5 +1,5 @@
 ### こんにちは！くのと申します！ 👋
-###　Ruby on RailsやJavaScriptの中心に勉強しています！
+### Ruby on RailsやJavaScriptの中心に勉強しています！
 
 
 <p align="left"> 
