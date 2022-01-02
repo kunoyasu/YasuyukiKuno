@@ -1,4 +1,6 @@
-### Hi there 👋
+### こんにちは！くのと申します！ 👋
+###　Ruby on RailsやJavaScriptの中心に勉強しています！
+
 
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YasuyukiKuno&layout=compact&show_icons=true&theme=onedark" />
